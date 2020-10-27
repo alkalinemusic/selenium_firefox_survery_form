@@ -90,19 +90,6 @@ improveSelector = ffdriver.find_element_by_css_selector(
     ".form__improvements-options")
 
 
-
-# loop through the child elements and click/select the ones that match those give
-# for i in improveSelections:
-#     if
-
-
-######### VERIFICATION #########
-# pause until page loads
-time.sleep(2)
-# switch to last opened window
-# ffdriver.switch_to.window(ffdriver.window_handles[-1])
-
-
 # wait 10 seconds
 time.sleep(5)
 
